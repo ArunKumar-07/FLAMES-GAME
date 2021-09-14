@@ -15,9 +15,11 @@ Start removing letter using the count we got.
 
 The letter which last the process is the result.
 
-Example : 
+Example :
 
-Input :   player1 name : ARUN
-          player 2 name : PRIYA
+
+Input :   Enter your name : ARUN
+
+         Enter your crush  name : PRIYA
 
 Output : Relationship status : Lovers
