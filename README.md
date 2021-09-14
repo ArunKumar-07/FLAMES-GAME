@@ -19,7 +19,7 @@ Example :
 
 
 Input :   Enter your name : ARUN
-
-         Enter your crush  name : PRIYA
+          Enter your crush name: PRIYA
+           
 
 Output : Relationship status : Lovers
