@@ -15,11 +15,3 @@ Start removing letter using the count we got.
 
 The letter which last the process is the result.
 
-Example :
-
-
-Input :   Enter your name : ARUN
-          Enter your crush name: PRIYA
-           
-
-Output : Relationship status : Lovers
